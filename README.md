@@ -1,2 +1,2 @@
 # RickRollDB
-A list of rickroll links 
+This just hosts a list of rick-roll links usefull for blockers
